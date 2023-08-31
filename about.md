@@ -6,7 +6,6 @@ title: About
 <p class="message">
   A disfrutar de la noche!!!
 </p>
- [GitHub](https://github.com/poole).
 
 ## Condiciones y código ético de participación
 
