@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Salida 31-08-2023 Castillo de Serra Alt del Pi
+title: 31-08-2023
 ---
 
-### Salida 21-08-2023 Castillo de Serra Alt del Pí
+### Castillo de Serra Alt del Pí
 
 - Distancia: 8.94
 - Desnivel positivo: 548m
