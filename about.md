@@ -4,27 +4,44 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  A disfrutar de la noche!!!
 </p>
+ [GitHub](https://github.com/poole).
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Condiciones y código ético de participación
 
-There are currently two themes built on Poole:
+### Condiciones de participación
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- Ser mayor de 18 años.
+- Tener un buen estado de salud física y mental.
+- Estar familiarizado con la práctica del senderismo nocturno.
+- Leer y aceptar las condiciones y el código ético de la asociación.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Código ético
 
-## Setup
+- Respetar a los demás participantes, a la naturaleza y al entorno.
+- Seguir las indicaciones de los guías y monitores.
+- Ser responsable de tus actos y posibles lesiones y/o problemas durante las salidas y actividades organizadas.
 
-Some fun facts about the setup of this project include:
+### Condiciones específicas para las salidas y actividades organizadas
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+- Los participantes deben llegar al punto de encuentro a la hora acordada.
+- Los participantes deben estar equipados con la ropa y el calzado adecuados para el senderismo nocturno.
+- Los participantes deben llevar consigo una linterna frontal o frontal y una mochila con agua y comida suficiente.
+- Los participantes deben seguir las indicaciones de los guías y monitores en todo momento.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Responsabilidad
 
-Thanks for reading!
+La asociación no se hace responsable de las lesiones y/o problemas que los participantes puedan sufrir durante las salidas y actividades organizadas. Los participantes son los únicos responsables de sus actos y de las consecuencias de los mismos.
+
+Este código ético es importante para garantizar la seguridad y el buen funcionamiento de la asociación. Los participantes deben respetar las condiciones y el código ético para que todos puedan disfrutar de las salidas y actividades organizadas.
+
+Aquí tienes algunos consejos adicionales para senderistas nocturnos:
+
+- Infórmate sobre la ruta y las condiciones meteorológicas antes de salir.
+- Camina en grupo y no te separes del resto de participantes.
+- Haz sonar tu linterna frontal con frecuencia para avisar a los demás senderistas.
+- Ten cuidado con los obstáculos en el camino.
+- No te extiendas demasiado, ya que es más fácil perderse en la oscuridad.
+
+Espero que estos consejos te sean útiles. ¡Buena caminata!
