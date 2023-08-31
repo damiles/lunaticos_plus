@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Condiciones y código ético
 ---
 
 <p class="message">
