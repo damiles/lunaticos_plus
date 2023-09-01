@@ -26,5 +26,6 @@ title: 31-08-2023
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9758545023"></div><script src="https://strava-embeds.com/embed.js"></script>
 
+#### Fotos
 
-![Caidita de Jose Luis](public/images/20230831.jpeg)
+<a href="public/images/20230831.jpeg" target="_blank"><img src="public/images/20230831.jpeg" alt="Caidita de Jose Luis" width="200" ></img></a>
