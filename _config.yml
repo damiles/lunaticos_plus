@@ -10,7 +10,7 @@ title:            Lunaticos++
 tagline:          'Lunaticos'
 description:      '...'
 url:              https://damiles.github.io/lunaticos_plus/
-baseurl:          /
+baseurl:          /lunaticos_plus/
 
 author:
   name:           'Mark Otto'

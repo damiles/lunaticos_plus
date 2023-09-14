@@ -28,4 +28,4 @@ title: 31-08-2023
 
 #### Fotos
 
-<a href="public/images/20230831.jpeg" target="_blank"><img src="public/images/20230831.jpeg" alt="Caidita de Jose Luis" width="200" /></a>
+<a href="/public/images/20230831.jpeg" target="_blank"><img src="public/images/20230831.jpeg" alt="Caidita de Jose Luis" width="200" /></a>
