@@ -12,7 +12,7 @@ title: 14-09-2023
 - **Hora de quedada**:  22:30
 - **Objetivo**: Finalizar la ruta en 2h :D
 - **Previsión meteorológica**
-<img src="public/images/tiempo_20230914.png" alt="Previsión meteorológica" width="450" />
+<img src="{{ site.baseurl }}public/images/tiempo_20230914.png" alt="Previsión meteorológica" width="450" />
 
 ---
 
