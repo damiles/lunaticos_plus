@@ -20,7 +20,7 @@ title: 31-08-2023
 - **Tiempo en movimiento**: 1.28:07
 - **Ritmo medio en movimiento**: 11.24 min/km
 - **Tiempo total**: 1:52:07
-- **Ritmo medio en total**: 14:30 miun/km
+- **Ritmo medio en total**: 14:30 min/km
 - **Desnivel positivo**: 536m
 
 
